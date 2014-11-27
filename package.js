@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "formidable":"0.1.0"
+  "formidable":"1.0.15"
 });
 
 Package.onUse(function(api) {
